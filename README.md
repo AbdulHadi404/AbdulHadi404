@@ -15,5 +15,4 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Mongo" width="26px" src="https://icons-for-free.com/iconfiles/png/512/mongodb+original+wordmark-1324760552967962880.png" />
 <img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/75629345/126154802-3dfe8499-8222-449f-9570-32d7bc9e6895.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/75629345/126155040-7c2f8931-4bd4-4b27-9024-b5b519ef75a2.png" />
