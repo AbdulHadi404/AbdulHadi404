@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science Undergrad
 - ✌️  I try to do everything with Love and Enthusiasm ❤️.
-- 👨‍💻 Currently learning everything 😆
+- 👨‍💻 Currently learning everything
 - 💪 And i love to work out ⚡⚡⚡
 
 ### Languages and Tools:
