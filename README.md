@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdul Hadi 👋 
 
--     🎓 Computer Science Undergrad
+-     Computer Science Undergrad 🎓 
 -     I try to do everything with Love and Enthusiasm ❤️.
 
 ### Languages and Tools:
