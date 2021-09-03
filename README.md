@@ -17,5 +17,5 @@
 <br>
 <br>
 
-## Here is a random joke 
+## Here's a random joke 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
