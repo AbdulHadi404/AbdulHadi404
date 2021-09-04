@@ -1,4 +1,4 @@
-### Hi there, I'm Abdul Hadi 👋 
+### Hi there, I'm ![Abdul Hadi](https://img.shields.io/badge/Abdul-Hadi-success) 👋 
 
 -     Computer Science Undergrad 🎓 
 -     I try to do everything with Love and Enthusiasm ❤️.
